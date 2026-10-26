@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "category": "Trabajo y Técnico",
+    "category": "🔧 Trabajo y Técnico",
     "english": "Let me take a look.",
     "phonetic": "Lét-mi téik-a-luk",
     "meaning": "Déjame echarle un vistazo / Déjame revisar.",
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "category": "Trabajo y Técnico",
+    "category": "🔧 Trabajo y Técnico",
     "english": "I'll figure it out.",
     "phonetic": "Ail fíguer-it-aut",
     "meaning": "Yo lo resuelvo / Ya encontraré la forma.",
@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "category": "Trabajo y Técnico",
+    "category": "🔧 Trabajo y Técnico",
     "english": "Everything looks good.",
     "phonetic": "Évri-zing luks gud",
     "meaning": "Todo se ve bien / Todo está en orden.",
@@ -31,7 +31,7 @@
   },
   {
     "id": 4,
-    "category": "Trabajo y Técnico",
+    "category": "🔧 Trabajo y Técnico",
     "english": "Give me a hand with this.",
     "phonetic": "Guív-mi a-jánd güiz dis",
     "meaning": "Échame una mano con esto.",
@@ -41,7 +41,7 @@
   },
   {
     "id": 5,
-    "category": "Trabajo y Técnico",
+    "category": "🔧 Trabajo y Técnico",
     "english": "Hold on a second.",
     "phonetic": "Jóuld-on a-sékond",
     "meaning": "Espera un segundo / Un momento.",
@@ -51,7 +51,7 @@
   },
   {
     "id": 6,
-    "category": "Trabajo y Técnico",
+    "category": "🔧 Trabajo y Técnico",
     "english": "It's good to go.",
     "phonetic": "Its gud-tu-góu",
     "meaning": "Está listo para usarse / Listo para salir.",
@@ -61,7 +61,7 @@
   },
   {
     "id": 7,
-    "category": "Trabajo y Técnico",
+    "category": "🔧 Trabajo y Técnico",
     "english": "Keep an eye on this.",
     "phonetic": "Kip-an-ái on dis",
     "meaning": "Vigila esto / No le pierdas la vista.",
@@ -71,7 +71,7 @@
   },
   {
     "id": 8,
-    "category": "Trabajo y Técnico",
+    "category": "🔧 Trabajo y Técnico",
     "english": "We need to replace it.",
     "phonetic": "Güi nid-tu ri-pléis-it",
     "meaning": "Necesitamos reemplazarlo / Hay que cambiarlo.",
@@ -81,7 +81,7 @@
   },
   {
     "id": 9,
-    "category": "Trabajo y Técnico",
+    "category": "🔧 Trabajo y Técnico",
     "english": "Make sure it's tight.",
     "phonetic": "Méik shur its táit",
     "meaning": "Asegúrate de que esté bien apretado.",
@@ -91,11 +91,411 @@
   },
   {
     "id": 10,
-    "category": "Trabajo y Técnico",
+    "category": "🔧 Trabajo y Técnico",
     "english": "Do you follow me?",
     "phonetic": "Du-yu fá-lou mi?",
     "meaning": "¿Me sigues? / ¿Se entiende lo que explico?",
     "mental_image": "Imagina que explicas un proceso a un compañero, haces una pausa tranquila y ves cómo asiente entendiendo todo.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 11,
+    "category": "✈️ Llegada al Aeropuerto",
+    "english": "Here is my passport.",
+    "phonetic": "Jír is mai pás-port",
+    "meaning": "Aquí tiene mi pasaporte.",
+    "mental_image": "Imagina que llegas al mostrador de migración tranquilo, sonríes levemente y entregas tu pasaporte en mano con total seguridad.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 12,
+    "category": "✈️ Llegada al Aeropuerto",
+    "english": "I'm here for work.",
+    "phonetic": "Aim jír for güerk",
+    "meaning": "Estoy aquí por trabajo.",
+    "mental_image": "Imagina que el oficial te mira y tú respondes con voz firme, serena y natural el motivo de tu viaje.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 13,
+    "category": "✈️ Llegada al Aeropuerto",
+    "english": "I'm staying for two weeks.",
+    "phonetic": "Aim stéi-ing for tu güiks",
+    "meaning": "Me quedo por dos semanas.",
+    "mental_image": "Imagina que tienes tus fechas claras en mente y respondes sin dudar cuánto tiempo vas a quedarte.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 14,
+    "category": "✈️ Llegada al Aeropuerto",
+    "english": "Where is baggage claim?",
+    "phonetic": "Güer is bá-guich kléim?",
+    "meaning": "¿Dónde está el reclamo de equipaje?",
+    "mental_image": "Imagina que caminas por el pasillo del aeropuerto con tu mochila al hombro y le preguntas a un empleado dónde recoger tus maletas.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 15,
+    "category": "✈️ Llegada al Aeropuerto",
+    "english": "I have nothing to declare.",
+    "phonetic": "Ai jav ná-zing tu di-klér",
+    "meaning": "No tengo nada que declarar.",
+    "mental_image": "Imagina que pasas por el control de aduana caminando tranquilo con tu maleta y confirmas que todo tu equipaje está en regla.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 16,
+    "category": "✈️ Llegada al Aeropuerto",
+    "english": "Which way is the exit?",
+    "phonetic": "Güich güéi is di ék-sit?",
+    "meaning": "¿Hacia dónde está la salida?",
+    "mental_image": "Imagina que ya tienes tu maleta lista y preguntas con naturalidad hacia qué puerta caminar para salir a la calle.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 17,
+    "category": "✈️ Llegada al Aeropuerto",
+    "english": "Where can I catch a taxi?",
+    "phonetic": "Güer kan ai kach a ták-si?",
+    "meaning": "¿Dónde puedo tomar un taxi?",
+    "mental_image": "Imagina que sales por las puertas automáticas del aeropuerto, sientes el aire fresco y preguntas dónde está la fila de taxis.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 18,
+    "category": "✈️ Llegada al Aeropuerto",
+    "english": "My flight was delayed.",
+    "phonetic": "Mai fláit güas di-léid",
+    "meaning": "Mi vuelo se retrasó.",
+    "mental_image": "Imagina que miras la pantalla del aeropuerto con calma y le explicas a quien te recibe que el avión salió más tarde.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 19,
+    "category": "✈️ Llegada al Aeropuerto",
+    "english": "Could you check my gate?",
+    "phonetic": "Kud-yu chek mai guéit?",
+    "meaning": "¿Podrías revisar mi puerta de embarque?",
+    "mental_image": "Imagina que muestras tu pase de abordar en el mostrador para confirmar exactamente a qué sala debes dirigirte.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 20,
+    "category": "✈️ Llegada al Aeropuerto",
+    "english": "This is my carry-on.",
+    "phonetic": "Dis is mai ká-ri-on",
+    "meaning": "Este es mi equipaje de mano.",
+    "mental_image": "Imagina que tomas tu bolso o maleta pequeña con ligereza y la muestras antes de subir al avión.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 21,
+    "category": "👷 Primer Día de Trabajo",
+    "english": "Hi, it's my first day here.",
+    "phonetic": "Jái, its mai férst déi jír",
+    "meaning": "Hola, hoy es mi primer día aquí.",
+    "mental_image": "Imagina que llegas puntual, con buena postura y una sonrisa tranquila, presentándote en la entrada de tu nuevo trabajo.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 22,
+    "category": "👷 Primer Día de Trabajo",
+    "english": "Glad to be on the team.",
+    "phonetic": "Glad tu bi on da tim",
+    "meaning": "Qué gusto ser parte del equipo.",
+    "mental_image": "Imagina que estrechas la mano de tus nuevos compañeros sintiendo una energía de respeto y bienvenida.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 23,
+    "category": "👷 Primer Día de Trabajo",
+    "english": "Who should I report to?",
+    "phonetic": "Ju shud ai ri-pórt tu?",
+    "meaning": "¿Con quién debo reportarme?",
+    "mental_image": "Imagina que ya tienes tu equipo de seguridad puesto y preguntas con actitud proactiva quién es tu encargado directo.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 24,
+    "category": "👷 Primer Día de Trabajo",
+    "english": "Could you show me around?",
+    "phonetic": "Kud-yu shóu-mi a-ráund?",
+    "meaning": "¿Podrías mostrarme el lugar?",
+    "mental_image": "Imagina que caminas junto a un compañero mientras te enseña dónde están las herramientas, el taller y el área de descanso.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 25,
+    "category": "👷 Primer Día de Trabajo",
+    "english": "Where do we keep the tools?",
+    "phonetic": "Güer du güi kip da tuls?",
+    "meaning": "¿Dónde guardamos las herramientas?",
+    "mental_image": "Imagina que estás listo para empezar tu primera tarea y preguntas dónde está el gabinete o cuarto de herramientas.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 26,
+    "category": "👷 Primer Día de Trabajo",
+    "english": "Let me know what you need.",
+    "phonetic": "Lét-mi nóu güat yu nid",
+    "meaning": "Avísame qué necesitas.",
+    "mental_image": "Imagina que miras a tu supervisor con total disposición, transmitiendo que estás listo para apoyar en lo que haga falta.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 27,
+    "category": "👷 Primer Día de Trabajo",
+    "english": "I'm a fast learner.",
+    "phonetic": "Aim a fast lér-ner",
+    "meaning": "Aprendo rápido.",
+    "mental_image": "Imagina que observas cómo hacen un procedimiento una sola vez y sientes la seguridad de que tus manos ya saben replicarlo.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 28,
+    "category": "👷 Primer Día de Trabajo",
+    "english": "Just to make sure I got it right.",
+    "phonetic": "Yast tu méik shur ai got-it ráit",
+    "meaning": "Solo para asegurarme de que entendí bien.",
+    "mental_image": "Imagina que confirmas una instrucción importante con calma y profesionalismo antes de poner manos a la obra.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 29,
+    "category": "👷 Primer Día de Trabajo",
+    "english": "What should I start with?",
+    "phonetic": "Güat shud ai start güiz?",
+    "meaning": "¿Con qué debería empezar?",
+    "mental_image": "Imagina que tienes tus guantes listos al iniciar la mañana y preguntas cuál es la primera prioridad del día.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 30,
+    "category": "👷 Primer Día de Trabajo",
+    "english": "Thanks for showing me.",
+    "phonetic": "Zanks for shóu-ing mi",
+    "meaning": "Gracias por enseñarme.",
+    "mental_image": "Imagina que un colega termina de explicarte cómo funciona una máquina y le agradeces con una sonrisa genuina.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 31,
+    "category": "🤝 Tratar de Ayudar a Alguien",
+    "english": "Do you need a hand?",
+    "phonetic": "Du-yu nid a jánd?",
+    "meaning": "¿Necesitas una mano? / ¿Te ayudo?",
+    "mental_image": "Imagina que ves a alguien cargando algo pesado o complicado, te acercas con amabilidad y te ofreces a ayudarle.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 32,
+    "category": "🤝 Tratar de Ayudar a Alguien",
+    "english": "I can help you with that.",
+    "phonetic": "Ai kan jélp-yu güiz dat",
+    "meaning": "Yo te puedo ayudar con eso.",
+    "mental_image": "Imagina que ves a una persona tratando de resolver algo que tú dominas y te acercas con total tranquilidad para apoyarla.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 33,
+    "category": "🤝 Tratar de Ayudar a Alguien",
+    "english": "Let me show you how it works.",
+    "phonetic": "Lét-mi shóu-yu jáu it güerks",
+    "meaning": "Déjame mostrarte cómo funciona.",
+    "mental_image": "Imagina que tomas una herramienta o control con paciencia y le enseñas paso a paso a otra persona cómo usarlo.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 34,
+    "category": "🤝 Tratar de Ayudar a Alguien",
+    "english": "Don't worry, I've got you.",
+    "phonetic": "Dóunt güó-ri, áiv gót-yu",
+    "meaning": "No te preocupes, yo te respaldo / yo te ayudo.",
+    "mental_image": "Imagina que alguien está estresado por un imprevisto y tú le transmites calma asegurándole que juntos lo sacan adelante.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 35,
+    "category": "🤝 Tratar de Ayudar a Alguien",
+    "english": "Follow me, it's this way.",
+    "phonetic": "Fá-lou mi, its dis güéi",
+    "meaning": "Sígueme, es por aquí.",
+    "mental_image": "Imagina que alguien está buscando una oficina o área del trabajo y tú haces un gesto amable invitándolo a caminar contigo.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 36,
+    "category": "🤝 Tratar de Ayudar a Alguien",
+    "english": "Be careful with that.",
+    "phonetic": "Bi kér-ful güiz dat",
+    "meaning": "Ten cuidado con eso.",
+    "mental_image": "Imagina que avisas a tiempo a un compañero sobre una pieza caliente o pesada para que trabaje seguro.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 37,
+    "category": "🤝 Tratar de Ayudar a Alguien",
+    "english": "Are you okay?",
+    "phonetic": "Ar yu ou-kéi?",
+    "meaning": "¿Estás bien?",
+    "mental_image": "Imagina que ves a alguien tropezar o detenerse de repente y te acercas de inmediato con empatía para ver cómo está.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 38,
+    "category": "🤝 Tratar de Ayudar a Alguien",
+    "english": "Take your time, no rush.",
+    "phonetic": "Téik yor táim, nóu rash",
+    "meaning": "Tómate tu tiempo, no hay prisa.",
+    "mental_image": "Imagina que alguien se disculpa por tardar y tú le sonríes con calma para que se sienta cómodo y sin presión.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 39,
+    "category": "🤝 Tratar de Ayudar a Alguien",
+    "english": "I'll take care of it.",
+    "phonetic": "Ail téik ker ov it",
+    "meaning": "Yo me encargo de eso.",
+    "mental_image": "Imagina que liberas a un compañero de una tarea pendiente diciéndole con seguridad que tú la vas a terminar.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 40,
+    "category": "🤝 Tratar de Ayudar a Alguien",
+    "english": "Call me if you need anything.",
+    "phonetic": "Kól-mi if yu nid éni-zing",
+    "meaning": "Llámame si necesitas cualquier cosa.",
+    "mental_image": "Imagina que terminas de ayudar a alguien y te despides dejándole la confianza de que puede contar contigo.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 41,
+    "category": "☕ Querer Pedir Algo",
+    "english": "Can I get a coffee, please?",
+    "phonetic": "Kan ai guet a kó-fi, plis?",
+    "meaning": "¿Me das un café, por favor?",
+    "mental_image": "Imagina que entras a una cafetería por la mañana, sientes el aroma a café recién hecho y pides el tuyo con total naturalidad.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 42,
+    "category": "☕ Querer Pedir Algo",
+    "english": "Could you pass me that?",
+    "phonetic": "Kud-yu pas-mi dat?",
+    "meaning": "¿Me podrías pasar eso?",
+    "mental_image": "Imagina que estás trabajando o comiendo, señalas algo que está al alcance de otra persona y se lo pides amablemente.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 43,
+    "category": "☕ Querer Pedir Algo",
+    "english": "I'm looking for this part.",
+    "phonetic": "Aim lú-king for dis part",
+    "meaning": "Estoy buscando esta pieza / este artículo.",
+    "mental_image": "Imagina que entras a una ferretería o tienda, muestras una muestra o foto en tu teléfono y explicas qué necesitas comprar.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 44,
+    "category": "☕ Querer Pedir Algo",
+    "english": "Could you repeat that, please?",
+    "phonetic": "Kud-yu ri-pít dat, plis?",
+    "meaning": "¿Podrías repetir eso, por favor?",
+    "mental_image": "Imagina que alguien habla rápido y tú, sin ningún nervio y con total seguridad, le pides que te lo diga una vez más.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 45,
+    "category": "☕ Querer Pedir Algo",
+    "english": "Can I have the check, please?",
+    "phonetic": "Kan ai jav da chek, plis?",
+    "meaning": "¿Me trae la cuenta, por favor?",
+    "mental_image": "Imagina que terminas una buena comida en un restaurante, haces contacto visual con el mesero y pides la cuenta tranquilo.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 46,
+    "category": "☕ Querer Pedir Algo",
+    "english": "Do you have this in another size?",
+    "phonetic": "Du-yu jav dis in a-nó-der sáis?",
+    "meaning": "¿Tienes esto en otra talla / medida?",
+    "mental_image": "Imagina que estás viendo ropa de trabajo o una herramienta y preguntas en la tienda si tienen una medida diferente.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 47,
+    "category": "☕ Querer Pedir Algo",
+    "english": "Can I pay by card?",
+    "phonetic": "Kan ai péi bai kard?",
+    "meaning": "¿Puedo pagar con tarjeta?",
+    "mental_image": "Imagina que estás en la caja registradora sacando tu tarjeta o tu teléfono listo para acercarlo a la terminal.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 48,
+    "category": "☕ Querer Pedir Algo",
+    "english": "Could you do me a favor?",
+    "phonetic": "Kud-yu du-mi a féi-vor?",
+    "meaning": "¿Me podrías hacer un favor?",
+    "mental_image": "Imagina que te acercas a un compañero de confianza con tono cordial para pedirle un pequeño apoyo.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 49,
+    "category": "☕ Querer Pedir Algo",
+    "english": "I'd like this to go, please.",
+    "phonetic": "Aid láik dis tu góu, plis",
+    "meaning": "Quisiera esto para llevar, por favor.",
+    "mental_image": "Imagina que pides tu comida o café en el mostrador indicando que lo llevarás contigo rumbo al trabajo.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 50,
+    "category": "☕ Querer Pedir Algo",
+    "english": "Where can I find the restroom?",
+    "phonetic": "Güer kan ai fáind da rést-rum?",
+    "meaning": "¿Dónde puedo encontrar el baño?",
+    "mental_image": "Imagina que estás en un edificio o centro comercial y preguntas con total naturalidad hacia dónde caminar para ir al baño.",
     "times_reviewed": 0,
     "last_review": null
   }
