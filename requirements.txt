@@ -1,5 +1,6 @@
 streamlit
 edge-tts
 pydub
+audioop-lts
 numpy
 scipy
