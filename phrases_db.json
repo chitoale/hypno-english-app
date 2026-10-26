@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "category": "Trabajo y Técnico",
+    "english": "Let me take a look.",
+    "phonetic": "Lét-mi téik-a-luk",
+    "meaning": "Déjame echarle un vistazo / Déjame revisar.",
+    "mental_image": "Imagina que te acercas con calma a un equipo o motor, con las manos listas y total seguridad de que sabes qué buscar.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 2,
+    "category": "Trabajo y Técnico",
+    "english": "I'll figure it out.",
+    "phonetic": "Ail fíguer-it-aut",
+    "meaning": "Yo lo resuelvo / Ya encontraré la forma.",
+    "mental_image": "Imagina que ves un sistema complejo, respiras hondo con confianza y sientes cómo encuentras la solución paso a paso.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 3,
+    "category": "Trabajo y Técnico",
+    "english": "Everything looks good.",
+    "phonetic": "Évri-zing luks gud",
+    "meaning": "Todo se ve bien / Todo está en orden.",
+    "mental_image": "Imagina que terminas una inspección, guardas la herramienta y confirmas con tranquilidad que el trabajo quedó impecable.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 4,
+    "category": "Trabajo y Técnico",
+    "english": "Give me a hand with this.",
+    "phonetic": "Guív-mi a-jánd güiz dis",
+    "meaning": "Échame una mano con esto.",
+    "mental_image": "Imagina que sostienes una pieza que requiere dos personas, miras a un compañero con naturalidad y le pides que se acerque.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 5,
+    "category": "Trabajo y Técnico",
+    "english": "Hold on a second.",
+    "phonetic": "Jóuld-on a-sékond",
+    "meaning": "Espera un segundo / Un momento.",
+    "mental_image": "Imagina que levantas ligeramente la mano con calma para pausar a alguien mientras terminas de ajustar un tornillo o conectar un cable.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 6,
+    "category": "Trabajo y Técnico",
+    "english": "It's good to go.",
+    "phonetic": "Its gud-tu-góu",
+    "meaning": "Está listo para usarse / Listo para salir.",
+    "mental_image": "Imagina que das un paso atrás, ves el equipo completamente terminado y haces un gesto de aprobación porque ya está listo.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 7,
+    "category": "Trabajo y Técnico",
+    "english": "Keep an eye on this.",
+    "phonetic": "Kip-an-ái on dis",
+    "meaning": "Vigila esto / No le pierdas la vista.",
+    "mental_image": "Imagina que señalas un medidor o una pantalla en funcionamiento pidiendo a un colega que supervise que todo siga estable.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 8,
+    "category": "Trabajo y Técnico",
+    "english": "We need to replace it.",
+    "phonetic": "Güi nid-tu ri-pléis-it",
+    "meaning": "Necesitamos reemplazarlo / Hay que cambiarlo.",
+    "mental_image": "Imagina que tienes una pieza desgastada en una mano y la pieza nueva en la otra, explicando el cambio con total claridad.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 9,
+    "category": "Trabajo y Técnico",
+    "english": "Make sure it's tight.",
+    "phonetic": "Méik shur its táit",
+    "meaning": "Asegúrate de que esté bien apretado.",
+    "mental_image": "Imagina y siente en tu propia mano la firmeza de una llave dando el último ajuste seguro a una conexión.",
+    "times_reviewed": 0,
+    "last_review": null
+  },
+  {
+    "id": 10,
+    "category": "Trabajo y Técnico",
+    "english": "Do you follow me?",
+    "phonetic": "Du-yu fá-lou mi?",
+    "meaning": "¿Me sigues? / ¿Se entiende lo que explico?",
+    "mental_image": "Imagina que explicas un proceso a un compañero, haces una pausa tranquila y ves cómo asiente entendiendo todo.",
+    "times_reviewed": 0,
+    "last_review": null
+  }
+]

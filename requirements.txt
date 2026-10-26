@@ -1,0 +1,5 @@
+streamlit
+edge-tts
+pydub
+numpy
+scipy
