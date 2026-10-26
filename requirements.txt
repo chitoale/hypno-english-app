@@ -2,5 +2,7 @@ streamlit
 edge-tts
 pydub
 audioop-lts
+standard-aifc
+SpeechRecognition
 numpy
 scipy

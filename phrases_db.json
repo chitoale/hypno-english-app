@@ -6,6 +6,8 @@
     "phonetic": "Lét-mi téik-a-luk",
     "meaning": "Déjame echarle un vistazo / Déjame revisar.",
     "mental_image": "Imagina que te acercas con calma a un equipo o motor, con las manos listas y total seguridad de que sabes qué buscar.",
+    "roleplay_en": "Hey, this machine is making a strange noise and stopped working.",
+    "roleplay_es": "Un compañero te dice: 'Oye, esta máquina hace un ruido raro y dejó de funcionar.'",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -16,6 +18,8 @@
     "phonetic": "Ail fíguer-it-aut",
     "meaning": "Yo lo resuelvo / Ya encontraré la forma.",
     "mental_image": "Imagina que ves un sistema complejo, respiras hondo con confianza y sientes cómo encuentras la solución paso a paso.",
+    "roleplay_en": "This wiring diagram looks pretty complicated. Do you think you can handle it?",
+    "roleplay_es": "Tu supervisor te dice: 'Este diagrama se ve complicado. ¿Crees que puedas encargarte?'",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -26,6 +30,8 @@
     "phonetic": "Évri-zing luks gud",
     "meaning": "Todo se ve bien / Todo está en orden.",
     "mental_image": "Imagina que terminas una inspección, guardas la herramienta y confirmas con tranquilidad que el trabajo quedó impecable.",
+    "roleplay_en": "Did you finish checking the pressure and the valves?",
+    "roleplay_es": "El encargado te pregunta: '¿Terminaste de revisar la presión y las válvulas?'",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -36,6 +42,8 @@
     "phonetic": "Guív-mi a-jánd güiz dis",
     "meaning": "Échame una mano con esto.",
     "mental_image": "Imagina que sostienes una pieza que requiere dos personas, miras a un compañero con naturalidad y le pides que se acerque.",
+    "roleplay_en": "That metal panel looks really heavy to lift by yourself.",
+    "roleplay_es": "Tienes que levantar un panel pesado y ves a un compañero cerca.",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -46,6 +54,8 @@
     "phonetic": "Jóuld-on a-sékond",
     "meaning": "Espera un segundo / Un momento.",
     "mental_image": "Imagina que levantas ligeramente la mano con calma para pausar a alguien mientras terminas de ajustar un tornillo o conectar un cable.",
+    "roleplay_en": "Ready? Can I turn the power back on now?",
+    "roleplay_es": "Tu compañero quiere encender la corriente mientras aún estás ajustando un cable.",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -56,6 +66,8 @@
     "phonetic": "Its gud-tu-góu",
     "meaning": "Está listo para usarse / Listo para salir.",
     "mental_image": "Imagina que das un paso atrás, ves el equipo completamente terminado y haces un gesto de aprobación porque ya está listo.",
+    "roleplay_en": "Is the equipment ready for the next shift?",
+    "roleplay_es": "Te preguntan si el equipo que reparaste ya se puede usar.",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -66,6 +78,8 @@
     "phonetic": "Kip-an-ái on dis",
     "meaning": "Vigila esto / No le pierdas la vista.",
     "mental_image": "Imagina que señalas un medidor o una pantalla en funcionamiento pidiendo a un colega que supervise que todo siga estable.",
+    "roleplay_en": "I'm right here while you go grab the other tool. What should I do?",
+    "roleplay_es": "Vas por una herramienta y necesitas que tu colega vigile el medidor.",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -76,6 +90,8 @@
     "phonetic": "Güi nid-tu ri-pléis-it",
     "meaning": "Necesitamos reemplazarlo / Hay que cambiarlo.",
     "mental_image": "Imagina que tienes una pieza desgastada en una mano y la pieza nueva en la otra, explicando el cambio con total claridad.",
+    "roleplay_en": "What do you think about this worn-out belt? Can we still use it?",
+    "roleplay_es": "Te preguntan si una pieza desgastada todavía aguanta o si hay que cambiarla.",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -86,6 +102,8 @@
     "phonetic": "Méik shur its táit",
     "meaning": "Asegúrate de que esté bien apretado.",
     "mental_image": "Imagina y siente en tu propia mano la firmeza de una llave dando el último ajuste seguro a una conexión.",
+    "roleplay_en": "I just put the bolt back in place. Anything else?",
+    "roleplay_es": "Tu compañero acaba de colocar un perno importante y quieres recordarle que quede bien firme.",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -96,6 +114,8 @@
     "phonetic": "Du-yu fá-lou mi?",
     "meaning": "¿Me sigues? / ¿Se entiende lo que explico?",
     "mental_image": "Imagina que explicas un proceso a un compañero, haces una pausa tranquila y ves cómo asiente entendiendo todo.",
+    "roleplay_en": "Okay, so first we shut the valve and then we check the gauge...",
+    "roleplay_es": "Estás explicándole un procedimiento a un compañero y quieres confirmar si te va entendiendo.",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -106,6 +126,8 @@
     "phonetic": "Jír is mai pás-port",
     "meaning": "Aquí tiene mi pasaporte.",
     "mental_image": "Imagina que llegas al mostrador de migración tranquilo, sonríes levemente y entregas tu pasaporte en mano con total seguridad.",
+    "roleplay_en": "Good afternoon. May I see your passport and travel documents, please?",
+    "roleplay_es": "El oficial de migración te dice: 'Buenas tardes. ¿Puedo ver su pasaporte, por favor?'",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -116,6 +138,8 @@
     "phonetic": "Aim jír for güerk",
     "meaning": "Estoy aquí por trabajo.",
     "mental_image": "Imagina que el oficial te mira y tú respondes con voz firme, serena y natural el motivo de tu viaje.",
+    "roleplay_en": "What is the purpose of your visit today?",
+    "roleplay_es": "El oficial te pregunta: '¿Cuál es el motivo de su visita hoy?'",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -126,6 +150,8 @@
     "phonetic": "Aim stéi-ing for tu güiks",
     "meaning": "Me quedo por dos semanas.",
     "mental_image": "Imagina que tienes tus fechas claras en mente y respondes sin dudar cuánto tiempo vas a quedarte.",
+    "roleplay_en": "How long will you be staying in the country?",
+    "roleplay_es": "El oficial de migración te pregunta: '¿Cuánto tiempo se va a quedar en el país?'",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -136,6 +162,8 @@
     "phonetic": "Güer is bá-guich kléim?",
     "meaning": "¿Dónde está el reclamo de equipaje?",
     "mental_image": "Imagina que caminas por el pasillo del aeropuerto con tu mochila al hombro y le preguntas a un empleado dónde recoger tus maletas.",
+    "roleplay_en": "Welcome! Do you need help finding anything in the terminal?",
+    "roleplay_es": "Acabas de bajar del avión y quieres preguntarle a un empleado dónde recoger tus maletas.",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -146,6 +174,8 @@
     "phonetic": "Ai jav ná-zing tu di-klér",
     "meaning": "No tengo nada que declarar.",
     "mental_image": "Imagina que pasas por el control de aduana caminando tranquilo con tu maleta y confirmas que todo tu equipaje está en regla.",
+    "roleplay_en": "Customs check. Are you bringing any commercial goods or items to declare?",
+    "roleplay_es": "En aduana te preguntan: '¿Trae algún artículo o mercancía para declarar?'",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -156,6 +186,8 @@
     "phonetic": "Güich güéi is di ék-sit?",
     "meaning": "¿Hacia dónde está la salida?",
     "mental_image": "Imagina que ya tienes tu maleta lista y preguntas con naturalidad hacia qué puerta caminar para salir a la calle.",
+    "roleplay_en": "You look like you're ready to leave the terminal. Can I point you somewhere?",
+    "roleplay_es": "Ya tienes tus maletas y quieres preguntar hacia dónde está la salida del aeropuerto.",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -166,6 +198,8 @@
     "phonetic": "Güer kan ai kach a ták-si?",
     "meaning": "¿Dónde puedo tomar un taxi?",
     "mental_image": "Imagina que sales por las puertas automáticas del aeropuerto, sientes el aire fresco y preguntas dónde está la fila de taxis.",
+    "roleplay_en": "Hi there, do you need ground transportation?",
+    "roleplay_es": "Sales de la terminal y quieres preguntar dónde puedes tomar un taxi.",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -176,6 +210,8 @@
     "phonetic": "Mai fláit güas di-léid",
     "meaning": "Mi vuelo se retrasó.",
     "mental_image": "Imagina que miras la pantalla del aeropuerto con calma y le explicas a quien te recibe que el avión salió más tarde.",
+    "roleplay_en": "Hey! You arrived a bit later than expected. What happened?",
+    "roleplay_es": "La persona que te recoge te pregunta por qué llegaste más tarde de lo previsto.",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -186,6 +222,8 @@
     "phonetic": "Kud-yu chek mai guéit?",
     "meaning": "¿Podrías revisar mi puerta de embarque?",
     "mental_image": "Imagina que muestras tu pase de abordar en el mostrador para confirmar exactamente a qué sala debes dirigirte.",
+    "roleplay_en": "Hello! How can I assist you with your boarding pass?",
+    "roleplay_es": "Te acercas al mostrador de la aerolínea para confirmar tu puerta de embarque.",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -196,6 +234,8 @@
     "phonetic": "Dis is mai ká-ri-on",
     "meaning": "Este es mi equipaje de mano.",
     "mental_image": "Imagina que tomas tu bolso o maleta pequeña con ligereza y la muestras antes de subir al avión.",
+    "roleplay_en": "Are you checking any bags today, or just taking that small bag with you?",
+    "roleplay_es": "En el mostrador te preguntan por la maleta pequeña que llevas contigo a la cabina.",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -206,6 +246,8 @@
     "phonetic": "Jái, its mai férst déi jír",
     "meaning": "Hola, hoy es mi primer día aquí.",
     "mental_image": "Imagina que llegas puntual, con buena postura y una sonrisa tranquila, presentándote en la entrada de tu nuevo trabajo.",
+    "roleplay_en": "Good morning! Welcome to the site. How can I help you?",
+    "roleplay_es": "Llegas por primera vez al trabajo y te reciben en la entrada.",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -216,6 +258,8 @@
     "phonetic": "Glad tu bi on da tim",
     "meaning": "Qué gusto ser parte del equipo.",
     "mental_image": "Imagina que estrechas la mano de tus nuevos compañeros sintiendo una energía de respeto y bienvenida.",
+    "roleplay_en": "Welcome aboard! We're really happy to have you working with us.",
+    "roleplay_es": "Tu jefe te da la bienvenida diciendo: '¡Bienvenido a bordo! Nos alegra tenerte con nosotros.'",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -226,6 +270,8 @@
     "phonetic": "Ju shud ai ri-pórt tu?",
     "meaning": "¿Con quién debo reportarme?",
     "mental_image": "Imagina que ya tienes tu equipo de seguridad puesto y preguntas con actitud proactiva quién es tu encargado directo.",
+    "roleplay_en": "Here is your safety vest and badge. You're all set to head to the floor.",
+    "roleplay_es": "Te entregan tu chaleco e identificación y quieres preguntar quién es tu supervisor directo.",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -236,6 +282,8 @@
     "phonetic": "Kud-yu shóu-mi a-ráund?",
     "meaning": "¿Podrías mostrarme el lugar?",
     "mental_image": "Imagina que caminas junto a un compañero mientras te enseña dónde están las herramientas, el taller y el área de descanso.",
+    "roleplay_en": "Hi! I'm Mike, I'll be working with you today. We have a few minutes before we start.",
+    "roleplay_es": "Conoces a tu compañero y quieres pedirle que te enseñe las áreas del taller.",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -246,6 +294,8 @@
     "phonetic": "Güer du güi kip da tuls?",
     "meaning": "¿Dónde guardamos las herramientas?",
     "mental_image": "Imagina que estás listo para empezar tu primera tarea y preguntas dónde está el gabinete o cuarto de herramientas.",
+    "roleplay_en": "We're going to need a wrench set and a screwdriver for this job.",
+    "roleplay_es": "Van a empezar una tarea y necesitas preguntar dónde se guardan las herramientas.",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -256,6 +306,8 @@
     "phonetic": "Lét-mi nóu güat yu nid",
     "meaning": "Avísame qué necesitas.",
     "mental_image": "Imagina que miras a tu supervisor con total disposición, transmitiendo que estás listo para apoyar en lo que haga falta.",
+    "roleplay_en": "We have a busy morning ahead of us with several repairs.",
+    "roleplay_es": "Tu supervisor comenta que hay bastante trabajo y quieres ponerte a su disposición.",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -266,6 +318,8 @@
     "phonetic": "Aim a fast lér-ner",
     "meaning": "Aprendo rápido.",
     "mental_image": "Imagina que observas cómo hacen un procedimiento una sola vez y sientes la seguridad de que tus manos ya saben replicarlo.",
+    "roleplay_en": "Have you used this specific model of machine before? It takes a little practice.",
+    "roleplay_es": "Te preguntan si has usado ese modelo específico antes y quieres asegurarles que aprendes rápido.",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -276,6 +330,8 @@
     "phonetic": "Yast tu méik shur ai got-it ráit",
     "meaning": "Solo para asegurarme de que entendí bien.",
     "mental_image": "Imagina que confirmas una instrucción importante con calma y profesionalismo antes de poner manos a la obra.",
+    "roleplay_en": "So remember, calibrate the sensor first and then log the numbers. Any questions?",
+    "roleplay_es": "Te acaban de dar una instrucción importante y quieres confirmarla antes de empezar.",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -286,6 +342,8 @@
     "phonetic": "Güat shud ai start güiz?",
     "meaning": "¿Con qué debería empezar?",
     "mental_image": "Imagina que tienes tus guantes listos al iniciar la mañana y preguntas cuál es la primera prioridad del día.",
+    "roleplay_en": "Alright, we have three units waiting for maintenance today.",
+    "roleplay_es": "Hay varias tareas pendientes y quieres preguntar por cuál empezar.",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -296,6 +354,8 @@
     "phonetic": "Zanks for shóu-ing mi",
     "meaning": "Gracias por enseñarme.",
     "mental_image": "Imagina que un colega termina de explicarte cómo funciona una máquina y le agradeces con una sonrisa genuina.",
+    "roleplay_en": "And that's how you reset the system safely. Now you know the whole trick!",
+    "roleplay_es": "Un compañero termina de explicarte paso a paso cómo reiniciar un equipo.",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -306,6 +366,8 @@
     "phonetic": "Du-yu nid a jánd?",
     "meaning": "¿Necesitas una mano? / ¿Te ayudo?",
     "mental_image": "Imagina que ves a alguien cargando algo pesado o complicado, te acercas con amabilidad y te ofreces a ayudarle.",
+    "roleplay_en": "Ugh, these boxes are heavier than I thought...",
+    "roleplay_es": "Ves a un compañero batallando para cargar unas cajas pesadas.",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -316,6 +378,8 @@
     "phonetic": "Ai kan jélp-yu güiz dat",
     "meaning": "Yo te puedo ayudar con eso.",
     "mental_image": "Imagina que ves a una persona tratando de resolver algo que tú dominas y te acercas con total tranquilidad para apoyarla.",
+    "roleplay_en": "I still have to finish assembling these two parts before lunch.",
+    "roleplay_es": "Un colega tiene prisa por terminar de armar dos piezas que tú sabes hacer muy bien.",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -326,6 +390,8 @@
     "phonetic": "Lét-mi shóu-yu jáu it güerks",
     "meaning": "Déjame mostrarte cómo funciona.",
     "mental_image": "Imagina que tomas una herramienta o control con paciencia y le enseñas paso a paso a otra persona cómo usarlo.",
+    "roleplay_en": "I'm not sure how to set up this new meter.",
+    "roleplay_es": "Un compañero nuevo dice que no sabe cómo configurar el medidor.",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -336,6 +402,8 @@
     "phonetic": "Dóunt güó-ri, áiv gót-yu",
     "meaning": "No te preocupes, yo te respaldo / yo te ayudo.",
     "mental_image": "Imagina que alguien está estresado por un imprevisto y tú le transmites calma asegurándole que juntos lo sacan adelante.",
+    "roleplay_en": "Oh no, I'm running behind schedule on this order!",
+    "roleplay_es": "Tu compañero está preocupado porque se atrasó con un pedido y quieres darle tranquilidad.",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -346,6 +414,8 @@
     "phonetic": "Fá-lou mi, its dis güéi",
     "meaning": "Sígueme, es por aquí.",
     "mental_image": "Imagina que alguien está buscando una oficina o área del trabajo y tú haces un gesto amable invitándolo a caminar contigo.",
+    "roleplay_en": "Excuse me, do you know where the main office is?",
+    "roleplay_es": "Alguien te pregunta dónde está la oficina principal y decides guiarlo.",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -356,6 +426,8 @@
     "phonetic": "Bi kér-ful güiz dat",
     "meaning": "Ten cuidado con eso.",
     "mental_image": "Imagina que avisas a tiempo a un compañero sobre una pieza caliente o pesada para que trabaje seguro.",
+    "roleplay_en": "I'm going to move this pipe right now.",
+    "roleplay_es": "Un compañero está por tocar una tubería recién soldada o peligrosa.",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -366,6 +438,8 @@
     "phonetic": "Ar yu ou-kéi?",
     "meaning": "¿Estás bien?",
     "mental_image": "Imagina que ves a alguien tropezar o detenerse de repente y te acercas de inmediato con empatía para ver cómo está.",
+    "roleplay_en": "Ouch! I almost slipped on that wet floor.",
+    "roleplay_es": "Alguien casi resbala cerca de ti y te acercas para asegurarte de que esté bien.",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -376,6 +450,8 @@
     "phonetic": "Téik yor táim, nóu rash",
     "meaning": "Tómate tu tiempo, no hay prisa.",
     "mental_image": "Imagina que alguien se disculpa por tardar y tú le sonríes con calma para que se sienta cómodo y sin presión.",
+    "roleplay_en": "Sorry it's taking me a minute to find the right key!",
+    "roleplay_es": "Alguien se disculpa contigo por tardar un poco buscando una llave.",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -386,6 +462,8 @@
     "phonetic": "Ail téik ker ov it",
     "meaning": "Yo me encargo de eso.",
     "mental_image": "Imagina que liberas a un compañero de una tarea pendiente diciéndole con seguridad que tú la vas a terminar.",
+    "roleplay_en": "Someone needs to lock up the storage room before we leave.",
+    "roleplay_es": "Preguntan quién puede encargarse de cerrar el almacén antes de salir.",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -396,6 +474,8 @@
     "phonetic": "Kól-mi if yu nid éni-zing",
     "meaning": "Llámame si necesitas cualquier cosa.",
     "mental_image": "Imagina que terminas de ayudar a alguien y te despides dejándole la confianza de que puede contar contigo.",
+    "roleplay_en": "Thanks so much for your help! I think I can finish the rest from here.",
+    "roleplay_es": "Te agradecen por tu ayuda y quieres despedirte ofreciendo tu apoyo si surge algo más.",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -406,6 +486,8 @@
     "phonetic": "Kan ai guet a kó-fi, plis?",
     "meaning": "¿Me das un café, por favor?",
     "mental_image": "Imagina que entras a una cafetería por la mañana, sientes el aroma a café recién hecho y pides el tuyo con total naturalidad.",
+    "roleplay_en": "Good morning! What can I get started for you today?",
+    "roleplay_es": "Estás en la cafetería y te preguntan: '¡Buenos días! ¿Qué le sirvo hoy?'",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -416,6 +498,8 @@
     "phonetic": "Kud-yu pas-mi dat?",
     "meaning": "¿Me podrías pasar eso?",
     "mental_image": "Imagina que estás trabajando o comiendo, señalas algo que está al alcance de otra persona y se lo pides amablemente.",
+    "roleplay_en": "I'm standing right next to the workbench. Do you need something from over here?",
+    "roleplay_es": "Tu compañero está junto a la mesa donde hay un objeto que necesitas que te alcance.",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -426,6 +510,8 @@
     "phonetic": "Aim lú-king for dis part",
     "meaning": "Estoy buscando esta pieza / este artículo.",
     "mental_image": "Imagina que entras a una ferretería o tienda, muestras una muestra o foto en tu teléfono y explicas qué necesitas comprar.",
+    "roleplay_en": "Hi there! Welcome to the hardware store. What are you searching for today?",
+    "roleplay_es": "Entras a una tienda de repuestos con una muestra en la mano y el vendedor te pregunta qué buscas.",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -436,6 +522,8 @@
     "phonetic": "Kud-yu ri-pít dat, plis?",
     "meaning": "¿Podrías repetir eso, por favor?",
     "mental_image": "Imagina que alguien habla rápido y tú, sin ningún nervio y con total seguridad, le pides que te lo diga una vez más.",
+    "roleplay_en": "The code for the back gate is seven-four-nine-two-alpha.",
+    "roleplay_es": "Alguien te dijo un dato muy rápido y quieres pedirle amablemente que lo repita.",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -446,6 +534,8 @@
     "phonetic": "Kan ai jav da chek, plis?",
     "meaning": "¿Me trae la cuenta, por favor?",
     "mental_image": "Imagina que terminas una buena comida en un restaurante, haces contacto visual con el mesero y pides la cuenta tranquilo.",
+    "roleplay_en": "Did you enjoy your meal? Can I get you anything else?",
+    "roleplay_es": "Terminaste de comer en un restaurante y quieres pedir la cuenta.",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -456,6 +546,8 @@
     "phonetic": "Du-yu jav dis in a-nó-der sáis?",
     "meaning": "¿Tienes esto en otra talla / medida?",
     "mental_image": "Imagina que estás viendo ropa de trabajo o una herramienta y preguntas en la tienda si tienen una medida diferente.",
+    "roleplay_en": "How do those work boots fit you?",
+    "roleplay_es": "Te estás probando unas botas o guantes en una tienda y necesitas otra talla.",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -466,6 +558,8 @@
     "phonetic": "Kan ai péi bai kard?",
     "meaning": "¿Puedo pagar con tarjeta?",
     "mental_image": "Imagina que estás en la caja registradora sacando tu tarjeta o tu teléfono listo para acercarlo a la terminal.",
+    "roleplay_en": "Your total comes to fifteen dollars and fifty cents.",
+    "roleplay_es": "El cajero te dice el total a pagar y quieres preguntar si aceptan tarjeta.",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -476,6 +570,8 @@
     "phonetic": "Kud-yu du-mi a féi-vor?",
     "meaning": "¿Me podrías hacer un favor?",
     "mental_image": "Imagina que te acercas a un compañero de confianza con tono cordial para pedirle un pequeño apoyo.",
+    "roleplay_en": "Hey! Sure, I have a free minute. What's up?",
+    "roleplay_es": "Te acercas a un compañero para pedirle un favor rápido.",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -486,6 +582,8 @@
     "phonetic": "Aid láik dis tu góu, plis",
     "meaning": "Quisiera esto para llevar, por favor.",
     "mental_image": "Imagina que pides tu comida o café en el mostrador indicando que lo llevarás contigo rumbo al trabajo.",
+    "roleplay_en": "Will that be for here or to go?",
+    "roleplay_es": "En el restaurante te preguntan si vas a comer ahí o si lo quieres para llevar.",
     "times_reviewed": 0,
     "last_review": null
   },
@@ -496,6 +594,8 @@
     "phonetic": "Güer kan ai fáind da rést-rum?",
     "meaning": "¿Dónde puedo encontrar el baño?",
     "mental_image": "Imagina que estás en un edificio o centro comercial y preguntas con total naturalidad hacia dónde caminar para ir al baño.",
+    "roleplay_en": "Hi! Can I help you find something in the building?",
+    "roleplay_es": "Estás en un lugar público o edificio nuevo y necesitas preguntar dónde está el baño.",
     "times_reviewed": 0,
     "last_review": null
   }
